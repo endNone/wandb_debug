@@ -1,0 +1,30 @@
+2024-05-04 05:01:58,688 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Current SDK version is 0.15.5
+2024-05-04 05:01:58,689 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Configure stats pid to 4288
+2024-05-04 05:01:58,689 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2024-05-04 05:01:58,689 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Loading settings from /chenhui/zhangwuhan/stage2/FastChat/wandb/settings
+2024-05-04 05:01:58,689 WARNING MainThread:4288 [wandb_setup.py:_flush():76] Unknown environment variable: WANDB_DEBUG
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'start_method': 'thread', 'api_key': '***REDACTED***'}
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'fastchat/train/qwen1.5_7b_5_5e-5_2_6k_past.py', 'program': '/chenhui/zhangwuhan/stage2/FastChat/fastchat/train/qwen1.5_7b_5_5e-5_2_6k_past.py'}
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_setup.py:_flush():76] Applying login settings: {'api_key': '***REDACTED***'}
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_init.py:_log_setup():507] Logging user logs to /chenhui/zhangwuhan/stage2/FastChat/wandb/run-20240504_050158-84h114l8/logs/debug.log
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_init.py:_log_setup():508] Logging internal logs to /chenhui/zhangwuhan/stage2/FastChat/wandb/run-20240504_050158-84h114l8/logs/debug-internal.log
+2024-05-04 05:01:58,690 INFO    MainThread:4288 [wandb_init.py:init():547] calling init triggers
+2024-05-04 05:01:58,691 INFO    MainThread:4288 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2024-05-04 05:01:58,691 INFO    MainThread:4288 [wandb_init.py:init():596] starting backend
+2024-05-04 05:01:58,691 INFO    MainThread:4288 [wandb_init.py:init():600] setting up manager
+2024-05-04 05:01:58,715 INFO    MainThread:4288 [wandb_init.py:init():606] backend started and connected
+2024-05-04 05:01:58,726 INFO    MainThread:4288 [wandb_init.py:init():705] updated telemetry
+2024-05-04 05:01:58,750 INFO    MainThread:4288 [wandb_init.py:init():738] communicating run to backend with 60.0 second timeout
+2024-05-04 05:01:59,658 INFO    MainThread:4288 [wandb_run.py:_on_init():2173] communicating current version
+2024-05-04 05:02:00,201 INFO    MainThread:4288 [wandb_run.py:_on_init():2182] got version response upgrade_message: "wandb version 0.16.6 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-05-04 05:02:00,202 INFO    MainThread:4288 [wandb_init.py:init():789] starting run threads in backend
+2024-05-04 05:02:00,596 INFO    MainThread:4288 [wandb_run.py:_console_start():2152] atexit reg
+2024-05-04 05:02:00,597 INFO    MainThread:4288 [wandb_run.py:_redirect():2007] redirect: SettingsConsole.WRAP_RAW
+2024-05-04 05:02:00,598 INFO    MainThread:4288 [wandb_run.py:_redirect():2072] Wrapping output streams.
+2024-05-04 05:02:00,598 INFO    MainThread:4288 [wandb_run.py:_redirect():2097] Redirects installed.
+2024-05-04 05:02:00,600 INFO    MainThread:4288 [wandb_init.py:init():830] run started, returning control to user process
+2024-05-04 05:02:00,600 INFO    MainThread:4288 [wandb_run.py:_config_callback():1281] config_cb None None {'epochs': 5, 'batch_size': 2, 'learning_rate': 5e-05, 'model_max_length': 512}
+2024-05-04 05:02:34,363 WARNING MsgRouterThr:4288 [router.py:message_loop():77] message_loop has been closed

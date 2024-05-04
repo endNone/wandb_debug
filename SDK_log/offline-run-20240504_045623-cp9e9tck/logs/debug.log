@@ -1,0 +1,26 @@
+2024-05-04 04:56:23,431 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Current SDK version is 0.15.5
+2024-05-04 04:56:23,432 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Configure stats pid to 3322
+2024-05-04 04:56:23,432 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Loading settings from /chenhui/zhangwuhan/stage2/FastChat/wandb/settings
+2024-05-04 04:56:23,433 WARNING MainThread:3322 [wandb_setup.py:_flush():76] Unknown environment variable: WANDB_DEBUG
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'start_method': 'thread', 'api_key': '***REDACTED***'}
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'fastchat/train/qwen1.5_7b_5_5e-5_2_6k_past.py', 'program': '/chenhui/zhangwuhan/stage2/FastChat/fastchat/train/qwen1.5_7b_5_5e-5_2_6k_past.py'}
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_init.py:_log_setup():507] Logging user logs to /chenhui/zhangwuhan/stage2/FastChat/wandb/offline-run-20240504_045623-cp9e9tck/logs/debug.log
+2024-05-04 04:56:23,433 INFO    MainThread:3322 [wandb_init.py:_log_setup():508] Logging internal logs to /chenhui/zhangwuhan/stage2/FastChat/wandb/offline-run-20240504_045623-cp9e9tck/logs/debug-internal.log
+2024-05-04 04:56:23,434 INFO    MainThread:3322 [wandb_init.py:init():547] calling init triggers
+2024-05-04 04:56:23,434 INFO    MainThread:3322 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2024-05-04 04:56:23,434 INFO    MainThread:3322 [wandb_init.py:init():596] starting backend
+2024-05-04 04:56:23,434 INFO    MainThread:3322 [wandb_init.py:init():600] setting up manager
+2024-05-04 04:56:23,458 INFO    MainThread:3322 [wandb_init.py:init():606] backend started and connected
+2024-05-04 04:56:23,467 INFO    MainThread:3322 [wandb_init.py:init():705] updated telemetry
+2024-05-04 04:56:23,493 INFO    MainThread:3322 [wandb_init.py:init():738] communicating run to backend with 60.0 second timeout
+2024-05-04 04:56:23,504 INFO    MainThread:3322 [wandb_init.py:init():789] starting run threads in backend
+2024-05-04 04:56:24,093 INFO    MainThread:3322 [wandb_run.py:_console_start():2152] atexit reg
+2024-05-04 04:56:24,094 INFO    MainThread:3322 [wandb_run.py:_redirect():2007] redirect: SettingsConsole.WRAP_RAW
+2024-05-04 04:56:24,097 INFO    MainThread:3322 [wandb_run.py:_redirect():2072] Wrapping output streams.
+2024-05-04 04:56:24,097 INFO    MainThread:3322 [wandb_run.py:_redirect():2097] Redirects installed.
+2024-05-04 04:56:24,098 INFO    MainThread:3322 [wandb_init.py:init():830] run started, returning control to user process
+2024-05-04 04:56:24,099 INFO    MainThread:3322 [wandb_run.py:_config_callback():1281] config_cb None None {'epochs': 5, 'batch_size': 2, 'learning_rate': 5e-05, 'model_max_length': 512}
+2024-05-04 04:56:59,797 WARNING MsgRouterThr:3322 [router.py:message_loop():77] message_loop has been closed
