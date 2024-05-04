@@ -1,0 +1,315 @@
+[3655730.423459] Out of memory: Kill process 130382 (python) score 1956 or sacrifice child
+[3655730.425228] Killed process 130382 (python), UID 0, total-vm:23313339792kB, anon-rss:1009104816kB, file-rss:4kB, shmem-rss:0kB
+[3655808.172503] nf_conntrack: falling back to vmalloc.
+[3655808.178549] IPVS: Creating netns size=2048 id=1649
+[3655808.179884] nf_conntrack: falling back to vmalloc.
+[3655809.338314] IPv6: ADDRCONF(NETDEV_UP): cali6719eced260: link is not ready
+[3655809.338602] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3655809.338613] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3655809.338772] IPv6: ADDRCONF(NETDEV_CHANGE): cali6719eced260: link becomes ready
+[3656697.484390] nf_conntrack: falling back to vmalloc.
+[3656697.489030] IPVS: Creating netns size=2048 id=1650
+[3656697.490043] nf_conntrack: falling back to vmalloc.
+[3656698.154637] IPv6: ADDRCONF(NETDEV_UP): cali2f58bd94e25: link is not ready
+[3656698.154967] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3656698.155007] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3656698.155236] IPv6: ADDRCONF(NETDEV_CHANGE): cali2f58bd94e25: link becomes ready
+[3674318.155651] echo (30944): drop_caches: 1
+[3674329.724559] echo (31728): drop_caches: 2
+[3684255.302675] nf_conntrack: falling back to vmalloc.
+[3684255.309003] IPVS: Creating netns size=2048 id=1651
+[3684255.310035] nf_conntrack: falling back to vmalloc.
+[3684256.388686] IPv6: ADDRCONF(NETDEV_UP): calie3d0bf2358c: link is not ready
+[3684256.389050] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3684256.389066] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3684256.389283] IPv6: ADDRCONF(NETDEV_CHANGE): calie3d0bf2358c: link becomes ready
+[3686095.222925] nf_conntrack: falling back to vmalloc.
+[3686095.228851] IPVS: Creating netns size=2048 id=1652
+[3686095.230197] nf_conntrack: falling back to vmalloc.
+[3686095.958941] IPv6: ADDRCONF(NETDEV_UP): cali127c29cd1ba: link is not ready
+[3686095.959277] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3686095.959292] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3686095.959509] IPv6: ADDRCONF(NETDEV_CHANGE): cali127c29cd1ba: link becomes ready
+[3688692.257044] nf_conntrack: falling back to vmalloc.
+[3688692.261933] IPVS: Creating netns size=2048 id=1653
+[3688692.263003] nf_conntrack: falling back to vmalloc.
+[3688692.947157] IPv6: ADDRCONF(NETDEV_UP): calib44f8349f27: link is not ready
+[3688692.947521] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3688692.947537] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3688692.947755] IPv6: ADDRCONF(NETDEV_CHANGE): calib44f8349f27: link becomes ready
+[3688786.995424] nf_conntrack: falling back to vmalloc.
+[3688787.001001] IPVS: Creating netns size=2048 id=1654
+[3688787.002066] nf_conntrack: falling back to vmalloc.
+[3688787.702527] IPv6: ADDRCONF(NETDEV_UP): cali52c64d35246: link is not ready
+[3688787.702949] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3688787.702965] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3688787.703183] IPv6: ADDRCONF(NETDEV_CHANGE): cali52c64d35246: link becomes ready
+[3690638.086328] nf_conntrack: falling back to vmalloc.
+[3690638.090593] IPVS: Creating netns size=2048 id=1655
+[3690638.091566] nf_conntrack: falling back to vmalloc.
+[3690638.738607] IPv6: ADDRCONF(NETDEV_UP): cali928b8258356: link is not ready
+[3690638.738942] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3690638.738956] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3690638.739174] IPv6: ADDRCONF(NETDEV_CHANGE): cali928b8258356: link becomes ready
+[3690866.515152] nf_conntrack: falling back to vmalloc.
+[3690866.519602] IPVS: Creating netns size=2048 id=1656
+[3690866.520545] nf_conntrack: falling back to vmalloc.
+[3690867.217867] IPv6: ADDRCONF(NETDEV_UP): cali2b027d0a25d: link is not ready
+[3690867.218213] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3690867.218226] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3690867.218418] IPv6: ADDRCONF(NETDEV_CHANGE): cali2b027d0a25d: link becomes ready
+[3690992.612674] overlayfs: Warning: Copying up utmp, but open R/O on fd 3 which will cease to be coherent [pid=27110 utempter]
+[3691525.627539] nf_conntrack: falling back to vmalloc.
+[3691525.632072] IPVS: Creating netns size=2048 id=1657
+[3691525.633111] nf_conntrack: falling back to vmalloc.
+[3691526.295498] IPv6: ADDRCONF(NETDEV_UP): cali5033a50be19: link is not ready
+[3691526.295873] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3691526.295888] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3691526.296127] IPv6: ADDRCONF(NETDEV_CHANGE): cali5033a50be19: link becomes ready
+[3692256.875483] overlayfs: Warning: Copying up utmp, but open R/O on fd 3 which will cease to be coherent [pid=11043 utempter]
+[3698298.823739] nf_conntrack: falling back to vmalloc.
+[3698298.828683] IPVS: Creating netns size=2048 id=1658
+[3698298.829748] nf_conntrack: falling back to vmalloc.
+[3698299.525625] IPv6: ADDRCONF(NETDEV_UP): califc568641871: link is not ready
+[3698299.525980] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3698299.526019] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3698299.526238] IPv6: ADDRCONF(NETDEV_CHANGE): califc568641871: link becomes ready
+[3700116.356123] nf_conntrack: falling back to vmalloc.
+[3700116.360693] IPVS: Creating netns size=2048 id=1659
+[3700116.361832] nf_conntrack: falling back to vmalloc.
+[3700116.998144] IPv6: ADDRCONF(NETDEV_UP): cali1e78d35714a: link is not ready
+[3700116.998518] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3700116.998534] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3700116.998753] IPv6: ADDRCONF(NETDEV_CHANGE): cali1e78d35714a: link becomes ready
+[3701625.897104] nf_conntrack: falling back to vmalloc.
+[3701625.902082] IPVS: Creating netns size=2048 id=1660
+[3701625.903085] nf_conntrack: falling back to vmalloc.
+[3701626.616360] IPv6: ADDRCONF(NETDEV_UP): calic0faf9781df: link is not ready
+[3701626.616728] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3701626.616745] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3701626.616979] IPv6: ADDRCONF(NETDEV_CHANGE): calic0faf9781df: link becomes ready
+[3703298.066399] nf_conntrack: falling back to vmalloc.
+[3703298.074219] IPVS: Creating netns size=2048 id=1661
+[3703298.075335] nf_conntrack: falling back to vmalloc.
+[3703298.786738] IPv6: ADDRCONF(NETDEV_UP): calie4ea8f25c06: link is not ready
+[3703298.786860] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3703298.786866] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3703298.786937] IPv6: ADDRCONF(NETDEV_CHANGE): calie4ea8f25c06: link becomes ready
+[3703338.022058] nf_conntrack: falling back to vmalloc.
+[3703338.025332] IPVS: Creating netns size=2048 id=1662
+[3703338.025992] nf_conntrack: falling back to vmalloc.
+[3703338.631280] IPv6: ADDRCONF(NETDEV_UP): calia770f2037b4: link is not ready
+[3703338.631634] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3703338.631650] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3703338.631892] IPv6: ADDRCONF(NETDEV_CHANGE): calia770f2037b4: link becomes ready
+[3703449.099153] nf_conntrack: falling back to vmalloc.
+[3703449.104724] IPVS: Creating netns size=2048 id=1663
+[3703449.105793] nf_conntrack: falling back to vmalloc.
+[3703449.724152] IPv6: ADDRCONF(NETDEV_UP): calib20c997bb70: link is not ready
+[3703449.724747] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3703449.724771] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3703449.725059] IPv6: ADDRCONF(NETDEV_CHANGE): calib20c997bb70: link becomes ready
+[3703950.780810] python invoked oom-killer: gfp_mask=0xd0, order=0, oom_score_adj=-997
+[3703950.780817] python cpuset=docker-1e5db3a717070e62f432217dd1a64679a420dc92519cd40843e87c18f547a67c.scope mems_allowed=0-1
+[3703950.780822] CPU: 56 PID: 44491 Comm: python Kdump: loaded Tainted: P           OE  ------------ T 3.10.0-1160.el7.x86_64 #1
+[3703950.780825] Hardware name: Inspur NF5688M6/NF5688M6, BIOS 06.01.00 03/11/2022
+[3703950.780827] Call Trace:
+[3703950.780839]  [<ffffffffa2d81340>] dump_stack+0x19/0x1b
+[3703950.780843]  [<ffffffffa2d7bc60>] dump_header+0x90/0x229
+[3703950.780850]  [<ffffffffa289d008>] ? ep_poll_callback+0xf8/0x220
+[3703950.780857]  [<ffffffffa27c1b26>] ? find_lock_task_mm+0x56/0xc0
+[3703950.780863]  [<ffffffffa283c8c8>] ? try_get_mem_cgroup_from_mm+0x28/0x60
+[3703950.780868]  [<ffffffffa27c208d>] oom_kill_process+0x2cd/0x490
+[3703950.780873]  [<ffffffffa2840cdc>] mem_cgroup_oom_synchronize+0x55c/0x590
+[3703950.780877]  [<ffffffffa2840140>] ? mem_cgroup_charge_common+0xc0/0xc0
+[3703950.780880]  [<ffffffffa27c2974>] pagefault_out_of_memory+0x14/0x90
+[3703950.780884]  [<ffffffffa2d7a16c>] mm_fault_error+0x6a/0x157
+[3703950.780889]  [<ffffffffa2d8e8d1>] __do_page_fault+0x491/0x500
+[3703950.780892]  [<ffffffffa2d8e975>] do_page_fault+0x35/0x90
+[3703950.780898]  [<ffffffffa2d8a778>] page_fault+0x28/0x30
+[3703950.780904] Task in /kubepods.slice/kubepods-podca82065d_2377_4f3c_ae28_6324bb018a39.slice/docker-1e5db3a717070e62f432217dd1a64679a420dc92519cd40843e87c18f547a67c.scope killed as a result of limit of /kubepods.slice/kubepods-podca82065d_2377_4f3c_ae28_6324bb018a39.slice
+[3703950.780909] memory: usage 12582912kB, limit 12582912kB, failcnt 92847
+[3703950.780911] memory+swap: usage 12582912kB, limit 9007199254740988kB, failcnt 0
+[3703950.780913] kmem: usage 0kB, limit 9007199254740988kB, failcnt 0
+[3703950.780914] Memory cgroup stats for /kubepods.slice/kubepods-podca82065d_2377_4f3c_ae28_6324bb018a39.slice: cache:0KB rss:0KB rss_huge:0KB mapped_file:0KB swap:0KB inactive_anon:0KB active_anon:0KB inactive_file:0KB active_file:0KB unevictable:0KB
+[3703950.780946] Memory cgroup stats for /kubepods.slice/kubepods-podca82065d_2377_4f3c_ae28_6324bb018a39.slice/docker-05b8703d33dd917c03119f3b43f2e188d1ada72b9c9cc7f0eb947e601519e25e.scope: cache:0KB rss:40KB rss_huge:0KB mapped_file:0KB swap:0KB inactive_anon:0KB active_anon:40KB inactive_file:0KB active_file:0KB unevictable:0KB
+[3703950.780978] Memory cgroup stats for /kubepods.slice/kubepods-podca82065d_2377_4f3c_ae28_6324bb018a39.slice/docker-1e5db3a717070e62f432217dd1a64679a420dc92519cd40843e87c18f547a67c.scope: cache:896KB rss:12581976KB rss_huge:8826880KB mapped_file:892KB swap:0KB inactive_anon:4KB active_anon:12581088KB inactive_file:0KB active_file:0KB unevictable:0KB
+[3703950.781007] [ pid ]   uid  tgid total_vm      rss nr_ptes swapents oom_score_adj name
+[3703950.781378] [112992]     0 112992      239        1       3        0          -998 pause
+[3703950.781427] [44058]     0 44058     1138       71       8        0          -997 tini
+[3703950.781431] [44143]     0 44143     4664      245      14        0          -997 bash
+[3703950.781435] [44145]     0 44145    18080      220      37        0          -997 sshd
+[3703950.781437] [44153]     0 44153     1165      107       9        0          -997 sh
+[3703950.781441] [44154]     0 44154 11212130  3164301    7028        0          -997 python
+[3703950.781460] Memory cgroup out of memory: Kill process 44522 (python) score 11 or sacrifice child
+[3703950.783544] Killed process 44154 (python), UID 0, total-vm:44848520kB, anon-rss:12575984kB, file-rss:81148kB, shmem-rss:4kB
+[3704619.146503] nf_conntrack: falling back to vmalloc.
+[3704619.149213] IPVS: Creating netns size=2048 id=1664
+[3704619.149813] nf_conntrack: falling back to vmalloc.
+[3704619.697018] IPv6: ADDRCONF(NETDEV_UP): cali9a732f3a3ae: link is not ready
+[3704619.697427] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3704619.697443] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3704619.697663] IPv6: ADDRCONF(NETDEV_CHANGE): cali9a732f3a3ae: link becomes ready
+[3704628.653646] wandb-service(2[115348]: segfault at 0 ip 00007ff2c0aec6ec sp 00007ff278847628 error 6 in libc-2.31.so[7ff2c0983000+178000]
+[3704630.364489] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=118443 sshd]
+[3705002.393280] wandb-service(2[25704]: segfault at 0 ip 00007f56741516ec sp 00007f563a7fa628 error 6 in libc-2.31.so[7f5673fe8000+178000]
+[3705735.001812] nf_conntrack: falling back to vmalloc.
+[3705735.006831] IPVS: Creating netns size=2048 id=1665
+[3705735.007916] nf_conntrack: falling back to vmalloc.
+[3705735.713162] IPv6: ADDRCONF(NETDEV_UP): cali819408d39df: link is not ready
+[3705735.713595] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3705735.713613] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3705735.713829] IPv6: ADDRCONF(NETDEV_CHANGE): cali819408d39df: link becomes ready
+[3707806.704527] nf_conntrack: falling back to vmalloc.
+[3707806.709743] IPVS: Creating netns size=2048 id=1666
+[3707806.710792] nf_conntrack: falling back to vmalloc.
+[3707807.330724] IPv6: ADDRCONF(NETDEV_UP): calid2ef03a6866: link is not ready
+[3707807.331286] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3707807.331311] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3707807.331619] IPv6: ADDRCONF(NETDEV_CHANGE): calid2ef03a6866: link becomes ready
+[3711019.361117] nf_conntrack: falling back to vmalloc.
+[3711019.364024] IPVS: Creating netns size=2048 id=1667
+[3711019.364674] nf_conntrack: falling back to vmalloc.
+[3711020.065796] IPv6: ADDRCONF(NETDEV_UP): cali924dec6c37f: link is not ready
+[3711020.066166] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3711020.066182] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3711020.066424] IPv6: ADDRCONF(NETDEV_CHANGE): cali924dec6c37f: link becomes ready
+[3711479.316126] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=18413 sshd]
+[3718712.900942] nf_conntrack: falling back to vmalloc.
+[3718712.905812] IPVS: Creating netns size=2048 id=1668
+[3718712.906808] nf_conntrack: falling back to vmalloc.
+[3718713.567768] IPv6: ADDRCONF(NETDEV_UP): calia03219eec02: link is not ready
+[3718713.568119] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3718713.568133] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3718713.568352] IPv6: ADDRCONF(NETDEV_CHANGE): calia03219eec02: link becomes ready
+[3718738.059069] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=8684 sshd]
+[3720158.047895] nf_conntrack: falling back to vmalloc.
+[3720158.053268] IPVS: Creating netns size=2048 id=1669
+[3720158.054316] nf_conntrack: falling back to vmalloc.
+[3720158.719818] IPv6: ADDRCONF(NETDEV_UP): cali77a56bbe303: link is not ready
+[3720158.720165] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3720158.720180] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3720158.720397] IPv6: ADDRCONF(NETDEV_CHANGE): cali77a56bbe303: link becomes ready
+[3720438.848916] nf_conntrack: falling back to vmalloc.
+[3720438.855280] IPVS: Creating netns size=2048 id=1670
+[3720438.856610] nf_conntrack: falling back to vmalloc.
+[3720439.578002] IPv6: ADDRCONF(NETDEV_UP): caliae3a809128b: link is not ready
+[3720439.578378] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3720439.578398] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3720439.578616] IPv6: ADDRCONF(NETDEV_CHANGE): caliae3a809128b: link becomes ready
+[3721261.651093] nf_conntrack: falling back to vmalloc.
+[3721261.656658] IPVS: Creating netns size=2048 id=1671
+[3721261.657972] nf_conntrack: falling back to vmalloc.
+[3721262.443547] IPv6: ADDRCONF(NETDEV_UP): cali5f259110502: link is not ready
+[3721262.443966] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3721262.443985] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3721262.444202] IPv6: ADDRCONF(NETDEV_CHANGE): cali5f259110502: link becomes ready
+[3721743.950909] overlayfs: Warning: Copying up utmp, but open R/O on fd 6 which will cease to be coherent [pid=54935 sshd]
+[3725398.716297] nf_conntrack: falling back to vmalloc.
+[3725398.721428] IPVS: Creating netns size=2048 id=1672
+[3725398.722434] nf_conntrack: falling back to vmalloc.
+[3725399.414775] IPv6: ADDRCONF(NETDEV_UP): cali8bf747a394c: link is not ready
+[3725399.415188] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3725399.415202] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3725399.415419] IPv6: ADDRCONF(NETDEV_CHANGE): cali8bf747a394c: link becomes ready
+[3733495.198298] nf_conntrack: falling back to vmalloc.
+[3733495.203154] IPVS: Creating netns size=2048 id=1673
+[3733495.204178] nf_conntrack: falling back to vmalloc.
+[3733495.949942] IPv6: ADDRCONF(NETDEV_UP): calic1d3e3d693c: link is not ready
+[3733496.049030] IPv6: ADDRCONF(NETDEV_UP): calic1d3e3d693c: link is not ready
+[3733496.049857] IPv6: ADDRCONF(NETDEV_CHANGE): calic1d3e3d693c: link becomes ready
+[3733505.126009] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=71944 sshd]
+[3734389.380488] nf_conntrack: falling back to vmalloc.
+[3734389.384626] IPVS: Creating netns size=2048 id=1674
+[3734389.385405] nf_conntrack: falling back to vmalloc.
+[3734390.001768] IPv6: ADDRCONF(NETDEV_UP): cali68b97c16947: link is not ready
+[3734390.002213] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3734390.002231] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3734390.002448] IPv6: ADDRCONF(NETDEV_CHANGE): cali68b97c16947: link becomes ready
+[3734394.157904] overlayfs: Warning: Copying up utmp, but open R/O on fd 6 which will cease to be coherent [pid=36696 sshd]
+[3738357.300743] nf_conntrack: falling back to vmalloc.
+[3738357.306185] IPVS: Creating netns size=2048 id=1675
+[3738357.307386] nf_conntrack: falling back to vmalloc.
+[3738358.023358] IPv6: ADDRCONF(NETDEV_UP): calie89e5a94e85: link is not ready
+[3738358.023767] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3738358.023785] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3738358.024036] IPv6: ADDRCONF(NETDEV_CHANGE): calie89e5a94e85: link becomes ready
+[3760523.828185] echo (28659): drop_caches: 1
+[3760602.159213] echo (30063): drop_caches: 2
+[3764898.869661] nf_conntrack: falling back to vmalloc.
+[3764898.874407] IPVS: Creating netns size=2048 id=1676
+[3764898.875303] nf_conntrack: falling back to vmalloc.
+[3764899.795872] IPv6: ADDRCONF(NETDEV_UP): cali2d6dc8c24c4: link is not ready
+[3764899.796236] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3764899.796252] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3764899.796469] IPv6: ADDRCONF(NETDEV_CHANGE): cali2d6dc8c24c4: link becomes ready
+[3769697.969416] nf_conntrack: falling back to vmalloc.
+[3769697.973766] IPVS: Creating netns size=2048 id=1677
+[3769697.974757] nf_conntrack: falling back to vmalloc.
+[3769698.641198] IPv6: ADDRCONF(NETDEV_UP): calif5bac87f109: link is not ready
+[3769698.641532] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3769698.641547] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3769698.641763] IPv6: ADDRCONF(NETDEV_CHANGE): calif5bac87f109: link becomes ready
+[3769707.533857] nf_conntrack: falling back to vmalloc.
+[3769707.538988] IPVS: Creating netns size=2048 id=1678
+[3769707.540085] nf_conntrack: falling back to vmalloc.
+[3769708.203107] IPv6: ADDRCONF(NETDEV_UP): cali2842bc88826: link is not ready
+[3769708.203440] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3769708.203455] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3769708.203696] IPv6: ADDRCONF(NETDEV_CHANGE): cali2842bc88826: link becomes ready
+[3771796.093290] nf_conntrack: falling back to vmalloc.
+[3771796.099207] IPVS: Creating netns size=2048 id=1679
+[3771796.100574] nf_conntrack: falling back to vmalloc.
+[3771796.834325] IPv6: ADDRCONF(NETDEV_UP): cali1609a161dcf: link is not ready
+[3771796.834695] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3771796.933368] IPv6: ADDRCONF(NETDEV_UP): cali1609a161dcf: link is not ready
+[3771796.933393] IPv6: ADDRCONF(NETDEV_CHANGE): cali1609a161dcf: link becomes ready
+[3771796.933800] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3771873.719052] nf_conntrack: falling back to vmalloc.
+[3771873.724430] IPVS: Creating netns size=2048 id=1680
+[3771873.725481] nf_conntrack: falling back to vmalloc.
+[3771874.392704] IPv6: ADDRCONF(NETDEV_UP): cali49ff0b9953b: link is not ready
+[3771874.393143] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3771874.393159] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3771874.393403] IPv6: ADDRCONF(NETDEV_CHANGE): cali49ff0b9953b: link becomes ready
+[3771878.442126] overlayfs: Warning: Copying up utmp, but open R/O on fd 6 which will cease to be coherent [pid=43188 sshd]
+[3771905.190389] nf_conntrack: falling back to vmalloc.
+[3771905.195830] IPVS: Creating netns size=2048 id=1681
+[3771905.196869] nf_conntrack: falling back to vmalloc.
+[3771905.952344] IPv6: ADDRCONF(NETDEV_UP): cali25ac8b8cf98: link is not ready
+[3771906.042434] IPv6: ADDRCONF(NETDEV_UP): cali25ac8b8cf98: link is not ready
+[3771906.043141] IPv6: ADDRCONF(NETDEV_CHANGE): cali25ac8b8cf98: link becomes ready
+[3775759.934728] nf_conntrack: falling back to vmalloc.
+[3775759.940818] IPVS: Creating netns size=2048 id=1682
+[3775759.941745] nf_conntrack: falling back to vmalloc.
+[3775760.532905] IPv6: ADDRCONF(NETDEV_UP): cali435878c4ed3: link is not ready
+[3775760.533132] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3775760.533143] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3775760.533288] IPv6: ADDRCONF(NETDEV_CHANGE): cali435878c4ed3: link becomes ready
+[3775766.883098] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=24767 sshd]
+[3776486.979603] nf_conntrack: falling back to vmalloc.
+[3776486.984600] IPVS: Creating netns size=2048 id=1683
+[3776486.985672] nf_conntrack: falling back to vmalloc.
+[3776487.596017] IPv6: ADDRCONF(NETDEV_UP): cali7b50ddbf25a: link is not ready
+[3776487.596245] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3776487.596255] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3776487.596400] IPv6: ADDRCONF(NETDEV_CHANGE): cali7b50ddbf25a: link becomes ready
+[3776938.454954] nf_conntrack: falling back to vmalloc.
+[3776938.460039] IPVS: Creating netns size=2048 id=1684
+[3776938.461094] nf_conntrack: falling back to vmalloc.
+[3776939.099359] IPv6: ADDRCONF(NETDEV_UP): cali019237380d2: link is not ready
+[3776939.099685] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3776939.099698] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3776939.099918] IPv6: ADDRCONF(NETDEV_CHANGE): cali019237380d2: link becomes ready
+[3777977.611032] nf_conntrack: falling back to vmalloc.
+[3777977.616003] IPVS: Creating netns size=2048 id=1685
+[3777977.617036] nf_conntrack: falling back to vmalloc.
+[3777978.293711] IPv6: ADDRCONF(NETDEV_UP): calic7626e7a27f: link is not ready
+[3777978.294093] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[3777978.294108] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[3777978.294325] IPv6: ADDRCONF(NETDEV_CHANGE): calic7626e7a27f: link becomes ready
+[3778137.960362] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=68682 sshd]
+[3778137.960373] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=68684 sshd]
+[3778137.960385] overlayfs: Warning: Copying up utmp, but open R/O on fd 7 which will cease to be coherent [pid=68683 sshd]
+[3785461.932011] wandb-service(2[59514]: segfault at 0 ip 00007f488ad86fb0 sp 00007f47baffb428 error 6 in libc.so.6[7f488ac00000+195000]
+[3785795.707533] wandb-service(2[80431]: segfault at 0 ip 00007f7939786fb0 sp 00007f78567fc428 error 6 in libc.so.6[7f7939600000+195000]
